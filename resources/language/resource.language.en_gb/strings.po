@@ -1,0 +1,45 @@
+# XBMC Media Center language file
+# Addon Name: radiogong
+# Addon id: plugin.audio.radiogong
+# Addon Version: 0.0.1
+# Addon Version: cplesche
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin.audio.radiogong\n"
+"Report-Msgid-Bugs-To: https://github.com/todo\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: cplesche\n"
+"Language-Team: cplesche\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+
+msgctxt "#30001"
+msgid "live"
+msgstr "Gong 96.3 live"
+
+msgctxt "#30002"
+msgid "top50"
+msgstr "Munichs Top 50"
+
+msgctxt "#30003"
+msgid "party"
+msgstr "Party Gong"
+
+msgctxt "#30004"
+msgid "kult"
+msgstr "Kult Hits"
+
+msgctxt "#30005"
+msgid "relaxed"
+msgstr "Munich Relaxed"
+
+msgctxt "#30006"
+msgid "christmas"
+msgstr "Christmas-Hits"
+
+msgctxt "#30007"
+msgid "wiesn"
+msgstr "Octoberfest-Hits"

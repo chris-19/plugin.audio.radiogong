@@ -1,0 +1,5 @@
+[B]0.0.2[/B]
+- migrated to config map
+- more streams
+[B]0.0.1[/B]
+- Created: initial release
